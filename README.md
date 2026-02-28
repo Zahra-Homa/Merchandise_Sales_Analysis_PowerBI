@@ -54,6 +54,6 @@ The goal of this project is to explore and visualize merchandise sales data usin
     Shipping costs change slightly over time, but stay mostly stable.
     There is no strong upward or downward trend, so shipping costs are fairly consistent.
     
-##  Credits & Inspiration
+###  Credits & Inspiration
 Inspired by a Power BI tutorial from Nte Daniel on YouTube.  
 I customized the dashboard, added my own insights, and refined the visuals as part of my portfolio project.
